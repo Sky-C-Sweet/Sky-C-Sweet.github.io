@@ -31,7 +31,7 @@ Learning about artificial intelligence, digital tools, and how technology can be
 
 ## Beyond the Classroom
 
-When I'm not studying, you might find me working on crafts, spending time with my cats, or cooking.
+When I'm not studying, you might find me working on crafts, spending time with my cat, or cooking.
 
 I'm always learning something new, and this website is part of that journey that I can update going foward.
 
