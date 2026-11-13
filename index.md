@@ -1,5 +1,5 @@
 
-Sky Sweet | Somewhat Professional Portfolio
+Somewhat Professional Portfolio
 ---
 
 # Hello, I'm Sky Sweet!
