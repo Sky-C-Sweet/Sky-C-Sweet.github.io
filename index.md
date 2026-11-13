@@ -1,17 +1,14 @@
 
-
----
-layout: default
-title: Sky Sweet | Personal Portfolio
+Sky Sweet | Personal Portfolio
 ---
 
 # Hello, I'm Sky Sweet!
 
 ### Learning. Exploring. Growing.
 
-**Psychology | Social Work | Research | Technology**
+### Psychology | Social Work | Research | Technology
 
-Welcome to my little corner of the internet!
+Welcome to my somewhat professional profile!
 
 I'm a student at Keweenaw Bay Ojibwa Community College (KBOCC). I'm interested in understanding people, exploring research, and learning how technology can help us solve problems and strengthen communities.
 
@@ -36,10 +33,11 @@ Learning about artificial intelligence, digital tools, and how technology can be
 
 ## Beyond the Classroom
 
-When I'm not studying, you might find me working on crafts, spending time with my cats, or tending to chickens.
+When I'm not studying, you might find me working on crafts, spending time with my cats, or cooking.
 
-I'm always learning something new, and this website is a place to share that journey.
+I'm always learning something new, and this website is part of that journey that I can update going foward.
 
 ---
 
-*Thanks for stopping by!*
+*Very Respectfully,*
+*Sky Sweet*
