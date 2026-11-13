@@ -4,8 +4,6 @@ Sky Sweet | Somewhat Professional Portfolio
 
 # Hello, I'm Sky Sweet!
 
-### Learning. Exploring. Growing.
-
 ### Psychology | Social Work | Research | Technology
 
 Welcome to my somewhat professional profile!
