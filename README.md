@@ -28,7 +28,7 @@ Outside of school, I enjoy the 3 C's: cats, crafts, and cooking.
 
 To bring together my interests in psychology, social work, and technology to contribute to stronger, healthier communities.
 
-### Bonus My Cat Popyy
+### Bonus My Cat Poppy
 
 <img width="3072" height="4080" alt="487" src="https://github.com/user-attachments/assets/18a43c5d-ad68-44f7-83d3-337737e58836" />
 
