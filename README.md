@@ -5,7 +5,7 @@
 
 I'm a college student at Keweenaw Bay Ojibwa Community College (KBOCC), working toward a psychology-related educational pathway.
 
-I'm interested in understanding human behavior, mental health, community wellness, and the ways research and technology can help improve people's lives.
+I'm interested in understanding human behavior, mental health, community wellness, and how technology will intersect with these fields in the future.
 
 ### Education & Experience
 - **KBOCC:** Psychology-related studies and continued academic development.
@@ -22,8 +22,14 @@ I'm interested in understanding human behavior, mental health, community wellnes
 
 ### A Little About Me
 
-I'm curious, creative, and always interested in learning something new. Outside of school, I enjoy cats, crafts, and chickens.
+Outside of school, I enjoy the 3 C's: cats, crafts, and cooking.
 
 ### My Goal
 
-To bring together my interests in psychology, social work, research, and technology to contribute to stronger, healthier communities.
+To bring together my interests in psychology, social work, and technology to contribute to stronger, healthier communities.
+
+### Bonus My Cat Popyy
+
+<img width="3072" height="4080" alt="487" src="https://github.com/user-attachments/assets/18a43c5d-ad68-44f7-83d3-337737e58836" />
+
+I had Claude help make it look pretty or at least better and I learn some new tricks! :)
