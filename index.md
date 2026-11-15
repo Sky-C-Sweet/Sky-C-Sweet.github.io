@@ -1,41 +1,35 @@
-
-Somewhat Professional Profile
----
-
+# Sky-C-Sweet.github.io
 # Hello, I'm Sky Sweet!
 
 ### Psychology | Social Work | Research | Technology
 
-Welcome to my somewhat professional profile!
+I'm a college student at Keweenaw Bay Ojibwa Community College (KBOCC), working toward a psychology-related educational pathway.
 
-I'm a student at Keweenaw Bay Ojibwa Community College (KBOCC). I'm interested in understanding people, exploring research, and learning how technology can help us solve problems and strengthen communities.
+I'm interested in understanding human behavior, mental health, community wellness, and how technology will intersect with these fields in the future.
 
-## What I'm Interested In
+### Education & Experience
+- **KBOCC:** Psychology-related studies and continued academic development.
+- **KBIC Victim Services:** Summer internship experience focused on victim services, community resources, and advocacy.
+- **Health Sciences Research & Technology:** Upcoming internship at KBOCC, where I'll have opportunities to explore research and emerging technologies.
 
-### Psychology & Mental Health
-Understanding human behavior, mental health, and the different ways people experience the world.
+### Areas of Interest
+- Psychology and human behavior
+- Mental health and counseling
+- Social work and community advocacy
+- Indigenous community wellness
+- Health sciences and research
+- Artificial intelligence and technology
 
-### Social Work & Community
-Community wellness, advocacy, and helping people access resources and support.
+### A Little About Me
 
-### Research & Health Sciences
-Exploring scientific research, health sciences, and new ways of understanding the world.
+Outside of school, I enjoy the 3 C's: cats, crafts, and cooking.
 
-### Technology
-Learning about artificial intelligence, digital tools, and how technology can be used in education and research.
+### My Goal
 
-## My Experience
+To bring together my interests in psychology, social work, and technology to contribute to stronger, healthier communities.
 
-- KBIC Victim Services summer internship
-- KBOCC Health Sciences Undergraduate Research & Technology internship (upcoming)
+### Bonus My Cat Poppy
 
-## Beyond the Classroom
+<img width="3072" height="4080" alt="487" src="https://github.com/user-attachments/assets/824f3b03-56a5-4334-96cf-dbb4655c7af7" />
 
-When I'm not studying, you might find me working on crafts, spending time with my cat, or cooking.
-
-I'm always learning something new, and this website is part of that journey that I can update going foward.
-
----
-
-*Very Respectfully,*
-*Sky Sweet*
+I had Claude help make it look pretty or at least better and I learn some new tricks! :)
