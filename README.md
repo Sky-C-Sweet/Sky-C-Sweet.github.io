@@ -30,6 +30,6 @@ To bring together my interests in psychology, social work, and technology to con
 
 ### Bonus My Cat Poppy
 
-<img width="3072" height="4080" alt="487" src="https://github.com/user-attachments/assets/18a43c5d-ad68-44f7-83d3-337737e58836" />
+
 
 I had Claude help make it look pretty or at least better and I learn some new tricks! :)
