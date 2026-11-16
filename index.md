@@ -1,5 +1,3 @@
-# Sky-C-Sweet.github.io
-
 <p align="center">
   <img src="Poppy Photo" alt="Poppy The Best Cat" width="50%">
 </p>
@@ -32,9 +30,3 @@ Outside of school, I enjoy the 3 C's: cats, crafts, and cooking.
 ### My Goal
 
 To bring together my interests in psychology, social work, and technology to contribute to stronger, healthier communities.
-
-### Bonus My Cat Poppy
-
-<img width="725" height="715" alt="487" src="https://github.com/user-attachments/assets/3e4629ee-f8c5-49c1-b3a7-8de67309c006" />
-
-I had Claude help make it look pretty or at least better and I learn some new tricks! :)
