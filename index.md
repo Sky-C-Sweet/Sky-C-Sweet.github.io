@@ -3,6 +3,7 @@
 </p>
 
 <h1 align="center">Hello, I'm Sky Sweet!
+</p>
   
 ### Psychology | Social Work | Research | Technology
 
