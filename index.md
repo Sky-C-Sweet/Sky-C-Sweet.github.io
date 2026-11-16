@@ -1,6 +1,10 @@
 # Sky-C-Sweet.github.io
 # Hello, I'm Sky Sweet!
 
+<p align="center">
+  <img src="Poppy Photo" alt="Poppy The Best Cat" width="30%">
+</p>
+
 ### Psychology | Social Work | Research | Technology
 
 I'm a college student at Keweenaw Bay Ojibwa Community College (KBOCC), working toward a psychology-related educational pathway.
